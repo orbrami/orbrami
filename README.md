@@ -3,13 +3,13 @@
 I'm a 16.5 year old high school student from Be'er Sheva, Israel.
 
 ### About Me
-- Studying **Electronics** at Techni Be'er Sheva (מגמת חשמל)
+- Studying **Electricity** at Techni Be'er Sheva (מגמת חשמל)
 - Self-taught developer building personal apps and projects
 - 5 units English • 4 units Math
 - Passionate about coding, software development and technology
 
 ### Goals
-- Serve in a technological unit in the IDF (preferably 8200 / Cyber)
+- Serve in a technological unit in the IDF (preferably Aman)
 - Build a strong portfolio for future studies and software engineering career (aiming for Israel and later the US)
 
 ### Currently Learning & Building
